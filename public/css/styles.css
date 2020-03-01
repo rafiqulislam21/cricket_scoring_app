@@ -1,0 +1,41 @@
+body{
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+.nav{
+	background-color: #379A89;
+}
+
+.navUl{
+	margin-right: 50px;
+}
+
+.navUl li{
+	margin-right: 10px;
+}
+.navUl li:hover{
+	/* background-color: #379A70; */
+	transform: scale(1.2);
+	transition: transform .5s;
+}
+.match{
+	background-color: #F0F0F0;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 30px;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    background-color: #E1E1E1;
+}
+.btn-in{
+background-color: #163F7E !important;
+color: #ffff;
+}
